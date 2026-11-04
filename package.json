@@ -1,0 +1,13 @@
+{
+  "name": "example-chrome-extension",
+  "private": true,
+  "type": "module",
+  "description": "How to Test a Chrome Extension End-to-End",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "testdriverai": "latest",
+    "vitest": "^4.0.18"
+  }
+}
